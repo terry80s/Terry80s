@@ -1,5 +1,9 @@
 ## Hi there 👋
+The journey is long, and the search is endless.
+Progress is not made by leaps, but by steady steps forward.
 
+This repository represents a single step —
+a place to think, build, fail, and learn in public.
 <!--
 **Terry80s/Terry80s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
